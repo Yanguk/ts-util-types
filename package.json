@@ -1,0 +1,8 @@
+{
+  "name": "ts-util-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Yanguk/ts-util-types.git",
+  "author": "Yanguk <yanguk.heo@knowre.com>",
+  "license": "MIT"
+}
